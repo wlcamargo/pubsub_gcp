@@ -5,6 +5,8 @@
 
 O projeto consiste em simular um processamento perto do tempo real na Google Cloud Platform.
 
+Vídeo: https://youtu.be/CdRMb2L1sMo 
+
 ## Resources
 
 - Scheduler
